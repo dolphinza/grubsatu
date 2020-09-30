@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
@@ -64,5 +63,3 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
 =======
-# grubsatu
->>>>>>> 00a848dc319117476076bd822c94a4315d8d9eb0
